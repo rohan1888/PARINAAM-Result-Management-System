@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.result.result_manage.Start
+Class-Path: javafx-controls-18.0.1-win.jar javafx-graphics-18.0.1-win.ja
+ r javafx-graphics-18.0.1.jar mysql-connector-java-8.0.28.jar javafx-con
+ trols-18.0.1.jar javafx-base-18.0.1-win.jar javafx-fxml-18.0.1.jar java
+ fx-base-18.0.1.jar javafx-fxml-18.0.1-win.jar
+
